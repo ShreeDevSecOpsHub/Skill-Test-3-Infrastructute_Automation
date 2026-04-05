@@ -39,5 +39,9 @@ This project provisions an Ubuntu 20.04 EC2 instance on AWS, installs Nginx, and
    ```bash
    terraform destroy -auto-approve
    ```
+<img width="1282" height="665" alt="image" src="https://github.com/user-attachments/assets/53d7a7e6-a0d7-40bc-b00e-76c10b38bd5b" />
+<img width="1100" height="678" alt="image" src="https://github.com/user-attachments/assets/be2c0653-4798-4844-b173-24d149495b86" />
+<img width="1305" height="657" alt="image" src="https://github.com/user-attachments/assets/408393ec-4cb6-41d8-ad9b-0c9383f17153" />
 
-   
+
+
