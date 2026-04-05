@@ -14,7 +14,15 @@ This project provisions an Ubuntu 20.04 EC2 instance on AWS, installs Nginx, and
    ```bash
    terraform init
    ```
-
+2. **Review Execution Plan:
+   ```bash
+   terraform plan
+   ```
+   
+4. **Deploy Infrastructure:
+   ```bash
+   terraform apply -auto-approve
+   ```
 <img width="1121" height="450" alt="image" src="https://github.com/user-attachments/assets/1f2b13ac-bb6e-4bae-b2b7-589ef0cbc135" />
 
 
