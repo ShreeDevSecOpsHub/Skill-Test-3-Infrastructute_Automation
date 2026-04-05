@@ -29,3 +29,13 @@ This project provisions an Ubuntu 20.04 EC2 instance on AWS, installs Nginx, and
 <img width="1285" height="637" alt="image" src="https://github.com/user-attachments/assets/f7933483-d8f5-46c2-956d-96cf46557aa5" />
 
 <img width="767" height="356" alt="image" src="https://github.com/user-attachments/assets/8149fed4-1d32-4c66-a73f-db2d14294c3f" />
+
+5. **Access the Server:
+   Copy the instance_public_ip from the output and paste it into your browser.
+
+6. **Cleanup:
+   ```bash
+   terraform destroy -auto-approve
+   ```
+
+   
